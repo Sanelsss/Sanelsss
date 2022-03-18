@@ -10,7 +10,7 @@ Skills:  REACT / JS / HTML / CSS / QA
  <img src="store1.jpg" href="" width="256"/>
   <img src="movie.png" width="256"/>
  <img src="tri.png" width="256"/>
- [<img src="vrijeme2.png"  width="256"/>](https://github.com/Sanelsss/weather)
+ <img src="vrijeme2.png" ahref="https://github.com/Sanelsss/weather" width="256"/>
 </div>
 
 
