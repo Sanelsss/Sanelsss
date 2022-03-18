@@ -7,11 +7,17 @@ Skills:  REACT / JS / HTML / CSS / QA
 
 - 🌱 I’m currently learning QA, REACT and JS 
 <div>
- <img src="store1.jpg" href="" width="256"/>
-  <img src="movie.png" width="256"/>
- <img src="tri.png" width="256"/>
-<a href="https://github.com/Sanelsss/weather" width="256">
-  <img src="vrijeme2.png" />
+  <a href="https://github.com/Sanelsss/storecetiri">
+  <img src="store1.jpg" width="256 />
+</a> <a href="https://github.com/Sanelsss/weather">
+  <img src="movie.png" width="256 />
+</a>
+ <a href="https://github.com/Sanelsss/weather">
+  <img src="tri.png" width="256 />
+</a>
+                                 
+<a href="https://github.com/Sanelsss/weather">
+  <img src="vrijeme2.png" width="256 />
 </a>
 
 
