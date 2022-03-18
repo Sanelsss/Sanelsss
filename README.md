@@ -13,7 +13,9 @@ Skills:  REACT / JS / HTML / CSS / QA
 ### My portfolio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanelsss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanel.netlify.app/)  
+
 ### Check out my projects
+
 <div>
   <a href="https://github.com/Sanelsss/storecetiri">
   <img src="store1.jpg" width="246" />
