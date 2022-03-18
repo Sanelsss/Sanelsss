@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### Hi there 👋, my name is Sanel
 #### I am Web Developing Enthusiast
 Hello,  I'm a self-taught React developer and QA engineer who is ready and decisive to study...
