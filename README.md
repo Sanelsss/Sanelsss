@@ -16,16 +16,16 @@ Skills:  REACT / JS / HTML / CSS / QA
 
 <div>
   <a href="https://github.com/Sanelsss/storecetiri">
-  <img src="store1.jpg" width="256" />
+  <img src="store1.jpg" width="246" />
 </a>                              
   <a href="https://github.com/Sanelsss/simple-chat-app">
-  <img src="tri.png" width="256" />
+  <img src="tri.png" width="246" />
 </a>   
   <a href="https://github.com/Sanelsss/TBDB-Movies-and-TV-Shows-App">
-  <img src="movie.png" width="256" />
+  <img src="movie.png" width="246" />
 </a>   
   <a href="https://github.com/Sanelsss/weather">
-  <img src="vrijeme2.png"  width="256" />
+  <img src="vrijeme2.png"  width="246" />
 </a>                                 
 </div>  
 
