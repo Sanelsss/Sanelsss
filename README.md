@@ -2,16 +2,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanelsss&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanelsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hi there 👋, my name is Sanel
+### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://sanel.netlify.app/assets/img/dva.jpg)
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hello, my name is Sanel and I'm a self-taught React developer who is ready and decisive to study...
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  REACT / JS / HTML / CSS / QA
+Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
