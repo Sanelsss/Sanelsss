@@ -10,8 +10,9 @@ Skills:  REACT / JS / HTML / CSS / QA
  <img src="store1.jpg" href="" width="256"/>
   <img src="movie.png" width="256"/>
  <img src="tri.png" width="256"/>
- <img src="vrijeme2.png" ahref="https://github.com/Sanelsss/weather" width="256"/>
-</div>
+<a href="https://github.com/Sanelsss/weather" width="256">
+  <img src="vrijeme2.png" />
+</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sanelsss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanel.netlify.app/)  
