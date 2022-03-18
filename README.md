@@ -1,7 +1,20 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanelsss&hide=contribs,prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanelsss&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanelsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi there 👋, my name is Sanel
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://sanel.netlify.app/assets/img/dva.jpg)
+
+Hello, my name is Sanel and I'm a self-taught React developer who is ready and decisive to study...
+
+Skills:  REACT / JS / HTML / CSS / QA
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
 
 <!--
