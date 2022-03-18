@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanelsss)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sanelsss&repo=vrijeme)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sanelsss/Sanelsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
