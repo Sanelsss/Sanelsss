@@ -6,7 +6,7 @@ Hello,  I'm a self-taught React developer and QA engineer who is ready and decis
 Skills:  REACT / JS / HTML / CSS / QA
 
 - 🌱 I’m currently learning QA, REACT and JS 
-
+<div>
   <a href="https://github.com/Sanelsss/storecetiri">
   <img src="store1.jpg" width="256" />
 </a>
@@ -22,7 +22,7 @@ Skills:  REACT / JS / HTML / CSS / QA
 <a href="https://github.com/Sanelsss/weather">
   <img src="vrijeme2.png" width="256"/>
 </a>
-                                     
+</div>                                    
 
 
 
