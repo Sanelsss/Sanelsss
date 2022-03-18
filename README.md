@@ -15,7 +15,7 @@ Skills:  REACT / JS / HTML / CSS / QA
   <img src="movie.png" width="256 />
 </a>
                               
-  <a href="https://github.com/Sanelsss/simple-chat-app" >
+  <a href="https://github.com/Sanelsss/simple-chat-app">
   <img src="tri.png" width="256" />
 </a>      
                                 
