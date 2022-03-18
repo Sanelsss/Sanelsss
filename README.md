@@ -15,10 +15,10 @@ Skills:  REACT / JS / HTML / CSS / QA
 </a>   
   <a href="https://github.com/Sanelsss/TBDB-Movies-and-TV-Shows-App">
   <img src="movie.png" width="256 />
-</a>                               
-<a href="https://github.com/Sanelsss/weather">
-  <img src="vrijeme2.png" width="256"/>
-</a>
+</a>   
+  <a href="https://github.com/Sanelsss/weather">
+  <img src="vrijeme2.png"  width="256 />
+</a>                                 
 </div>                                    
 
 
