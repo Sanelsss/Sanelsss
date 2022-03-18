@@ -14,6 +14,7 @@ Skills:  REACT / JS / HTML / CSS / QA
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanelsss&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanelsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Check out my projects
 <div>
   <a href="https://github.com/Sanelsss/storecetiri">
   <img src="store1.jpg" width="246" />
