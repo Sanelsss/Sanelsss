@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanelsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, my name is Sanel
 #### I am Web Developing Enthusiast
-![I am Web Developing Enthusiast](https://sanel.netlify.app/)
 
 Hello, my name is Sanel and I'm a self-taught React developer and QA engineer who is ready and decisive to study...
 
