@@ -11,10 +11,9 @@ Skills:  REACT / JS / HTML / CSS / QA
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanelsss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My portfolio
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanel.netlify.app/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='github' height='40'>](https://www.linkedin.com/in/sanel-omanovi%C4%87-412019228/)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanel.netlify.app/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='github' height='40'>](https://www.linkedin.com/in/sanel-omanovi%C4%87-412019228/)
 ### Skills
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'> React
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'> 
 
 ### Check out my projects
 
