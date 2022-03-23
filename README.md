@@ -16,7 +16,7 @@ Skills:  REACT / JS / HTML / CSS / QA
 
 ### Check out my projects
 
-<div>
+<div  width="1024">
   <a href="https://github.com/Sanelsss/storecetiri">
   <img src="store1.jpg" width="256" />
 </a>                              
