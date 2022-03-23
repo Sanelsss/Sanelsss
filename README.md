@@ -13,7 +13,8 @@ Skills:  REACT / JS / HTML / CSS / QA
 ### My portfolio
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanel.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='github' height='40'>](https://www.linkedin.com/in/sanel-omanovi%C4%87-412019228/)
 ### Skills
-<link rel="shortcut icon" type="image/x-icon" href="whatever_folder_name/favicon.ico">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ### Check out my projects
 
 <div  >
