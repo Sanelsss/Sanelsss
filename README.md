@@ -29,7 +29,10 @@ Skills:  REACT / JS / HTML / CSS / QA
 </a>   
   <a href="https://github.com/Sanelsss/weather">
   <img src="vrijeme2.png"  width="256" />
-</a>                                 
+</a>  
+  <a href="https://github.com/Sanelsss/CoinApplication">
+  <img src="CoinApp.jpg"  width="256" />
+</a>
 </div>  
 
 
